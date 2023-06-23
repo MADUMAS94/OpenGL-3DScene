@@ -1,0 +1,13 @@
+﻿  final.cpp
+C:\Users\shell_c4ornqx\Desktop\random school\CS-330\cs330assignment\MichelleDumas6-5Milestone\camera.h(129,32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shell_c4ornqx\Desktop\random school\CS-330\cs330assignment\MichelleDumas6-5Milestone\camera.h(130,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shell_c4ornqx\Desktop\random school\CS-330\cs330assignment\MichelleDumas6-5Milestone\final.cpp(375,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shell_c4ornqx\Desktop\random school\CS-330\cs330assignment\MichelleDumas6-5Milestone\final.cpp(536,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shell_c4ornqx\Desktop\random school\CS-330\cs330assignment\MichelleDumas6-5Milestone\final.cpp(537,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shell_c4ornqx\Desktop\random school\CS-330\cs330assignment\MichelleDumas6-5Milestone\final.cpp(541,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shell_c4ornqx\Desktop\random school\CS-330\cs330assignment\MichelleDumas6-5Milestone\final.cpp(542,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shell_c4ornqx\Desktop\random school\CS-330\cs330assignment\MichelleDumas6-5Milestone\final.cpp(544,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shell_c4ornqx\Desktop\random school\CS-330\cs330assignment\MichelleDumas6-5Milestone\final.cpp(545,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shell_c4ornqx\Desktop\random school\CS-330\cs330assignment\MichelleDumas6-5Milestone\final.cpp(555,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\shell_c4ornqx\Desktop\random school\CS-330\cs330assignment\MichelleDumas6-5Milestone\final.cpp(645,10): warning C4101: 'ubHasTextureVal': unreferenced local variable
+  CS330assignments.vcxproj -> C:\Users\shell_c4ornqx\Desktop\random school\CS-330\cs330assignment\MichelleDumas6-5Milestone\Debug\CS330assignments.exe
